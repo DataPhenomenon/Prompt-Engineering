@@ -1,4 +1,4 @@
-# Truth-Seeking Analysis Prompt 0.01
+# Grok Rigorous Analysis v0.01
 
 A rigorous system prompt designed for maximum truth-seeking analysis of events, claims, news, controversies, and other topics.
 
